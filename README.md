@@ -1,0 +1,2 @@
+# github_learning
+github操作に慣れるための練習用リポジトリ
